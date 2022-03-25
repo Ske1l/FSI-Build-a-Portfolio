@@ -1,0 +1,29 @@
+
+html{
+    cursor: wait;
+}
+
+body{
+    background-color: purple;
+    
+    
+}
+
+div {
+    line-height: 1.8em;
+    background-color: aqua;
+    border-style: solid;
+}
+
+p{
+    text-decoration:underline;
+}
+
+img{
+    border-color: black;
+    border-radius: 3em;
+    border-style: solid;
+    border-width: 0.15cm;
+    
+}
+
